@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me : https://www.linkedin.com/in/kamna-jain-024215264/
 - 😄 Pronouns: She/Her
-- Checkout my latest Project - : [ [study-notion-one-xi.vercel.app/](https://study-notion-one-xi.vercel.app/)](https://edtech-codegen-p5hfkhzmx-kamna-jains-projects.vercel.app/)
+- Checkout my latest Project - :https://edtech-codegen-p5hfkhzmx-kamna-jains-projects.vercel.app/
 
 <!---
 kamnajain06/kamnajain06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
